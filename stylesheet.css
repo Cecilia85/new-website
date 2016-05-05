@@ -1,0 +1,43 @@
+header{
+background-color:tomato;
+font-family: Helvetica;
+height: 300px;
+text-align: center;
+padding: 10px;
+}
+.bigtext{
+font-size: 60px;
+color: white;
+}
+.smallertext{
+font-size: 30px;
+color: tomato;
+}
+.othertext{
+  font-size: 30px;
+  color:tomato;
+  float:left;
+}
+
+.whitetext{
+  color: white;
+  font-size: 30px;
+}
+h2{
+font-family:Helvetica;
+color: tomato;
+}
+.column{
+width:300px;
+height:300px;
+float:left;
+padding: 10px;
+font-family:Helvetica;
+color:grey;
+}
+img{
+padding:10px;
+}
+div{
+float:left;
+}
